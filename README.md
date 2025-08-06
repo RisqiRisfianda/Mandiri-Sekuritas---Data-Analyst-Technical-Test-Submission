@@ -24,7 +24,7 @@ This project analyzes customer behavior using a public dataset containing custom
 [Go to the Presentation File](https://lookerstudio.google.com/xyz)
 
 ## 📊 Dashboard Link
-[Go to the Looker Studio Dashboard](https://lookerstudio.google.com/xyz)
+[Go to the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/361c826d-fc1a-46bb-903b-c0db6373bc30/page/DBnTF)
 
 ## 📬 Contact
 For any further questions, please contact me via:
