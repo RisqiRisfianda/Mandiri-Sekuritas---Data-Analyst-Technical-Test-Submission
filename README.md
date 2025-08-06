@@ -21,7 +21,7 @@ This project analyzes customer behavior using a public dataset containing custom
 - [Debt-to-credit limit ratio](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio) : Analyzes the user's financial health.
 
 ## 🖥️ Presentation File
-[Go to the Presentation File](https://lookerstudio.google.com/xyz)
+[Go to the Presentation File](https://docs.google.com/presentation/d/1GBI5TrYRpOtvXcPr0Y4A5uomNHAD5jgF/edit?usp=sharing&ouid=112349176116963816721&rtpof=true&sd=true)
 
 ## 📊 Dashboard Link
 - [Go to the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/361c826d-fc1a-46bb-903b-c0db6373bc30/page/DBnTF)
