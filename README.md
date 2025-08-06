@@ -1,29 +1,30 @@
 # User Behavior Analysis – Data Analyst Technical Test Submission
-Analisis perilaku dari nasabah menggunakan dataset publik yang berisi informasi nasabah, kartu, dan transaksi. Proyek ini dilakukan untuk menjawab assessment dari Mandiri Sekuritas mencakup query SQL, visualisasi, dan dashboard interaktif.
+This project analyzes customer behavior using a public dataset containing customer, card, and transaction information. The analysis was conducted to complete an assessment for Mandiri Sekuritas, which included SQL queries, visualizations, and an interactive dashboard.
 
 ## Tools
-- Google BigQuery – untuk menjalankan query SQL dan eksplorasi data
-- Google Looker Studio – untuk membuat dashboard interaktif
-- Google Slides / PowerPoint – untuk presentasi hasil analisis
+- Python - for importing table to Google BigQuery
+- Google BigQuery – for running SQL queries and data exploration
+- Google Looker Studio – for creating the interactive dashboard
+- Google Slides / PowerPoint – for presenting the analysis findings
 
-## Cara Menjalankan SQL
-1. Buka Google BigQuery Console.
-2. Buat dataset baru (jika perlu).
-3. Import ketiga tabel menggunakan python: `users_data`, `cards_data`, `transactions_data`.
-4. Buka file `user_behavior_queries.sql`.
-5. Salin dan jalankan query sesuai kebutuhan.
+## How to Run the SQL Queries
+1. Open the Google BigQuery Console.
+2. Create a new dataset (if needed).
+3. Import the three tables using Python: users_data, cards_data, and transactions_data.
+4. Open the .sql file.
+5. Copy and run the necessary queries.
 
-## Ringkasan Query & Insight
-- Total transaksi per user → memahami tingkat aktivitas pengguna.
-- Perbandingan swipe vs chip → memahami metode transaksi dominan.
-- Pengguna dengan credit score rendah dan kartu banyak → untuk identifikasi risiko.
-- Rasio debt vs credit limit → analisis kesehatan keuangan pengguna.
+## Query & Insight Summary
+- Total transactions per user: Helps to understand user activity levels.
+- Comparison of swipe vs. chip transactions: Provides insight into the dominant transaction method.
+- Users with low credit scores and multiple cards: Identifies potential risks.
+- Debt-to-credit limit ratio: Analyzes the user's financial health.
 
-## Link Dashboard
-[Menuju Dashboard Looker Studio](https://lookerstudio.google.com/xyz)
+## Dashboard Link
+[Go to the Looker Studio Dashboard](https://lookerstudio.google.com/xyz)
 
 ## Kontak
-Jika ada pertanyaan lebih lanjut, silakan hubungi saya melalui:
+For any further questions, please contact me via:
 - Email: risfiandarisqi88@gmail.com
 - Phone: +6282115256042 
 - LinkedIn: linkedin.com/in/muhammad-risqi-risfianda
