@@ -2,6 +2,7 @@ WITH
 transactions as(
 SELECT
 id,
+-- date,
 SAFE_CAST(left(date, 10) AS DATE) as date,
 client_id,
 card_id,
@@ -14,7 +15,7 @@ zip,
 mcc,
 errors
 FROM
-  `encoded-horizon-463806-e8.mandiri_sekuritas.transactions_data`
+  `transactions_data`
 )
 
 ,cards as(
@@ -26,7 +27,7 @@ card_type,
 has_chip,
 credit_limit,
 card_on_dark_web
-from `encoded-horizon-463806-e8.mandiri_sekuritas.cards_data`
+from `cards_data`
 group by 1,2,3,4,5,6,7
 )
 
@@ -44,10 +45,9 @@ CAST(LTRIM(per_capita_income, '$') AS INT64) as per_capita_income,
 CAST(LTRIM(yearly_income, '$') AS INT64) as yearly_income,
 CAST(LTRIM(total_debt, '$') AS INT64) as total_debt,
 credit_score
-from `encoded-horizon-463806-e8.mandiri_sekuritas.users_data`
+from `users_data`
 )
 
-,final as(
 select
 t.id,
 t.date as transaction_date,
@@ -105,23 +105,3 @@ on t.client_id = u.id
 left join cards as c
 on t.card_id = c.id
 group by 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
-)
-
-select
-transaction_date,
-transaction_year,
-transaction_month,
-current_age_category,
-gender,
-credit_score_category,
-debt_to_credit_ratio_category,
-card_brand,
-card_type,
-use_chip,
-merchant_city,
-count(distinct client_id) as total_user,
-count(distinct card_id) as total_card,
-count(distinct id) as total_transaction,
-round(sum(amount),2) as total_amount
-from final
-group by 1,2,3,4,5,6,7,8,9,10,11
