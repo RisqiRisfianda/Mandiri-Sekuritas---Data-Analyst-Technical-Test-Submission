@@ -1,4 +1,4 @@
-# User Behavior Analysis – Data Analyst Technical Test Submission
+# Data Analyst Technical Test Submission
 This project analyzes customer behavior using a public dataset containing customer, card, and transaction information. The analysis was conducted to complete an assessment for Mandiri Sekuritas, which included SQL queries, visualizations, and an interactive dashboard.
 
 ## 🛠️ Tools
