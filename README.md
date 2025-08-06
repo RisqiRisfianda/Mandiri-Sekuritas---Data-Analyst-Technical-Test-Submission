@@ -20,6 +20,9 @@ This project analyzes customer behavior using a public dataset containing custom
 - [Users with low credit scores and multiple cards](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/low_credit_scores_and_multiple_cards.sql) : Identifies potential risks.
 - [Debt-to-credit limit ratio](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio) : Analyzes the user's financial health.
 
+## 🖥️ Presentation File
+[Go to the Presentation File](https://lookerstudio.google.com/xyz)
+
 ## 📊 Dashboard Link
 [Go to the Looker Studio Dashboard](https://lookerstudio.google.com/xyz)
 
