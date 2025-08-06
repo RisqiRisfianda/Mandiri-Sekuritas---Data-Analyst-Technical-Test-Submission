@@ -7,4 +7,4 @@ SELECT
 FROM 
   transactions_data
 GROUP BY
-  client_id
+  client_id
