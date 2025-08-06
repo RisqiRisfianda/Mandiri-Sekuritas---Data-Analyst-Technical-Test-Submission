@@ -16,9 +16,9 @@ This project analyzes customer behavior using a public dataset containing custom
 
 ## 🎯 Query & Insight Summary
 - [Total transactions per user](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/total_transactions_per_user.sql) : Helps to understand user activity levels.
-- [Comparison of swipe vs. chip transactions](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/swipe_vs_chip_transactions.sql): Provides insight into the dominant transaction method.
-- [Users with low credit scores and multiple cards](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/low_credit_scores_and_multiple_cards.sql): Identifies potential risks.
-- [Debt-to-credit limit ratio](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio): Analyzes the user's financial health.
+- [Comparison of swipe vs. chip transactions](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/swipe_vs_chip_transactions.sql) : Provides insight into the dominant transaction method.
+- [Users with low credit scores and multiple cards](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/low_credit_scores_and_multiple_cards.sql) : Identifies potential risks.
+- [Debt-to-credit limit ratio](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio) : Analyzes the user's financial health.
 
 ## 📊 Dashboard Link
 [Go to the Looker Studio Dashboard](https://lookerstudio.google.com/xyz)
