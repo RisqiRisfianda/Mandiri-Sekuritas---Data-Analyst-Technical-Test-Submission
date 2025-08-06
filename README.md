@@ -25,6 +25,7 @@ This project analyzes customer behavior using a public dataset containing custom
 
 ## 📊 Dashboard Link
 [Go to the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/361c826d-fc1a-46bb-903b-c0db6373bc30/page/DBnTF)
+[Custom query for data source](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/dashboard_data_source.sql) 
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9330c808-b4c4-4629-8871-d2038bb420ad" />
 
