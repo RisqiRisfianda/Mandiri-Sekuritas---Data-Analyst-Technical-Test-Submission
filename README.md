@@ -27,4 +27,4 @@ This project analyzes customer behavior using a public dataset containing custom
 For any further questions, please contact me via:
 - Email : risfiandarisqi88@gmail.com
 - Phone : [+6282115256042](https://wa.me/6282115256042) 
-- LinkedIn : linkedin.com/in/muhammad-risqi-risfianda
+- LinkedIn : [linkedin.com/in/muhammad-risqi-risfianda](linkedin.com/in/muhammad-risqi-risfianda)
