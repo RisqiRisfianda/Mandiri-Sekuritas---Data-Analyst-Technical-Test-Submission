@@ -1,7 +1,7 @@
 # User Behavior Analysis – Data Analyst Technical Test Submission
 This project analyzes customer behavior using a public dataset containing customer, card, and transaction information. The analysis was conducted to complete an assessment for Mandiri Sekuritas, which included SQL queries, visualizations, and an interactive dashboard.
 
-## Tools
+## 🛠️ Tools
 - Python - for importing table to Google BigQuery
 - Google BigQuery – for running SQL queries and data exploration
 - Google Looker Studio – for creating the interactive dashboard
@@ -23,7 +23,7 @@ This project analyzes customer behavior using a public dataset containing custom
 ## Dashboard Link
 [Go to the Looker Studio Dashboard](https://lookerstudio.google.com/xyz)
 
-## Kontak
+## 📬 Contact
 For any further questions, please contact me via:
 - Email: risfiandarisqi88@gmail.com
 - Phone: +6282115256042 
