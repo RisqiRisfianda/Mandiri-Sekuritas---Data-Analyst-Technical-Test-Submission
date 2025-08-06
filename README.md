@@ -2,7 +2,7 @@
 This project analyzes customer behavior using a public dataset containing customer, card, and transaction information. The analysis was conducted to complete an assessment for Mandiri Sekuritas, which included SQL queries, visualizations, and an interactive dashboard.
 
 ## 🛠️ Tools
-- Python - for importing table to Google BigQuery
+- Google Colab - for importing table to Google BigQuery
 - Google BigQuery – for running SQL queries and data exploration
 - Google Looker Studio – for creating the interactive dashboard
 - Google Slides / PowerPoint – for presenting the analysis findings
@@ -10,7 +10,7 @@ This project analyzes customer behavior using a public dataset containing custom
 ## 🚀 How to Run the SQL Queries
 1. Open the Google BigQuery Console.
 2. Create a new dataset (if needed).
-3. Import the three tables using [Python](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/Import_Big_CSV_to_BigQuery.ipynb) : 'users_data', 'cards_data', and 'transactions_data'.
+3. Import the three tables using [Google Colab](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/Import_Big_CSV_to_BigQuery.ipynb) : 'users_data', 'cards_data', and 'transactions_data'.
 4. Open the .sql file.
 5. Copy and run the necessary queries.
 
