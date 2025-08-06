@@ -15,7 +15,7 @@ This project analyzes customer behavior using a public dataset containing custom
 5. Copy and run the necessary queries.
 
 ## 🎯 Query & Insight Summary
-- Total transactions per user: Helps to understand user activity levels.
+- [Total transactions per user](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio): Helps to understand user activity levels.
 - Comparison of swipe vs. chip transactions: Provides insight into the dominant transaction method.
 - Users with low credit scores and multiple cards: Identifies potential risks.
 - Debt-to-credit limit ratio: Analyzes the user's financial health.
