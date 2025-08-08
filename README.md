@@ -1,6 +1,5 @@
 # Data Analyst Technical Test Submission
 This project analyzes customer behavior using a public dataset containing customer, card, and transaction information. The analysis was conducted to complete an assessment for Mandiri Sekuritas, which included SQL queries, visualizations, and an interactive dashboard.
-
 ## 🛠️ Tools
 - Google Colab - for importing table to Google BigQuery
 - Google BigQuery – for running SQL queries and data exploration
