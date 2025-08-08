@@ -18,7 +18,7 @@ This project analyzes customer behavior using a public dataset containing custom
 - [Total transactions per user](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/total_transactions_per_user.sql) : Helps to understand user activity levels.
 - [Comparison of swipe vs. chip transactions](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/swipe_vs_chip_transactions.sql) : Provides insight into the dominant transaction method.
 - [Users with low credit scores and multiple cards](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/low_credit_scores_and_multiple_cards.sql) : Identifies potential risks.
-- [Debt-to-credit limit ratio](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio) : Analyzes the user's financial health.
+- [Debt-to-credit limit ratio](https://github.com/RisqiRisfianda/Mandiri-Sekuritas---Data-Analyst-Technical-Test-Submission/blob/main/sql/debt_and_credit_limit_ratio.sql) : Analyzes the user's financial health.
 
 ## 🖥️ Presentation File
 [Go to the Presentation File](https://docs.google.com/presentation/d/1GBI5TrYRpOtvXcPr0Y4A5uomNHAD5jgF/edit?usp=sharing&ouid=112349176116963816721&rtpof=true&sd=true)
